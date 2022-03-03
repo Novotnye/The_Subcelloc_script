@@ -1,2 +1,2 @@
-# Membrane proteins and proteomics of *Cronobacter* *sakazakii* cells: Reliable method for identification and subcellular localization
+## Membrane proteins and proteomics of *Cronobacter* *sakazakii* cells: Reliable method for identification and subcellular localization
 This is a Python-based script created to automate the evaluation of the subcellular localization done in ...
